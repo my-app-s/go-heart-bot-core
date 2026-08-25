@@ -10,6 +10,7 @@
 > ![status: dev](https://img.shields.io/badge/status-dev-orange)
 > ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-green)
 > ![CI](https://github.com/my-app-s/go-heart-bot/actions/workflows/deploy.yml/badge.svg)
+![Latest Tag](https://img.shields.io/github/v/tag/my-app-s/go-heart-bot)
 
 ## 📦 Что это
 
